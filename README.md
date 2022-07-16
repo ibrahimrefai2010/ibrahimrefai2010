@@ -1,5 +1,5 @@
-👋hi, i'am ibrahim refai
-i'm interested in:
+-👋hi, i'am ibrahim refai
+-i'm interested in:
   Machine Learning(ML)
   Deep Learning(DL)
   Reinforcement Learning(RL) (not learned yet😭)
