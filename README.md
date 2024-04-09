@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, there 👋
 
-<!--
-**ibrahimrefai2010/ibrahimrefai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ibrahim Refai**, a **13-year-old full-stack developer** from **Saudi Arabia**. 
 
-Here are some ideas to get you started:
+* Python 🐍
+* Java ☕
+* C++ 🚀
+* Unreal Engine 🎮
+* HTML 🌐
+* CSS 🎨
+* JavaScript 🔥
+* Kali 🎩
+* React.js ⚛️
+* TensorFlow 🤖
+* Supervised Learning 🧠
+* Flask 🌶️
+* Containerization 📦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently working on EyeMouse (private) and learning React.js ⚛️
+
+Open to collaboration (any project in my skillset)! ⚡
+
+Ask me anything tech related! 🧑‍💻
+
+Pronouns: he/him
+
+[Reach out to me](hemorefai2010@gmail.com)
