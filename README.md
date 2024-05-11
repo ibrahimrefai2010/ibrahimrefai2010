@@ -18,7 +18,7 @@ I'm **Ibrahim Refai**, a **13-year-old full-stack developer** from **Saudi Arabi
 * Containerization 📦
 
 
-Currently working on EyeMouse (private) and learning React.js ⚛️
+Currently working on EyeMouse (private) and learning React Native ⚛️
 
 Open to collaboration (any project within my skillset)! ⚡
 
